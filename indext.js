@@ -5,7 +5,7 @@ document.getElementById("loginForm").addEventListener("submit", function(event) 
     const credentials = {
         "yahan": "2000",
         "chathuri": "1008",
-        "abilashi": "0427",
+        "abhilashi": "0427",
         "madhuka": "1030"
     };
 
